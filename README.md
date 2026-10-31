@@ -31,3 +31,11 @@ A React application is developed locally, pushed to GitHub, and automatically bu
 
 ## Result
 A fully managed, continuously deployed React web application hosted on AWS.
+
+## Application Source Code
+
+The React and Vite application source code, along with AWS Amplify configuration files, is maintained in a separate GitHub repository.
+
+**View Source Code:** [profilesapp](https://github.com/jibrown8707/profilesapp)
+
+This repository documents the architecture and deployment workflow, while the profilesapp repository contains the application source files.
